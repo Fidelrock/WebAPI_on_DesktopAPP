@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGround", "PlayGround\PlayGround.csproj", "{3AF85EA2-D872-4093-A08D-2A404436945F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{3F08F250-0359-4A0F-A7F7-FF7D9BD31DAD}"
+	ProjectSection(SolutionItems) = preProject
+		User.cs = User.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF85EA2-D872-4093-A08D-2A404436945F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF85EA2-D872-4093-A08D-2A404436945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF85EA2-D872-4093-A08D-2A404436945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF85EA2-D872-4093-A08D-2A404436945F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3257F1CF-90D3-4EFB-A9FA-BA8BEFFE630D}
+	EndGlobalSection
+EndGlobal
